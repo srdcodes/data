@@ -1,0 +1,7 @@
+{
+  "version": "0.0.1",
+  "name": "countries",
+  "singular": "country",
+  "symbol": "CTRY",
+  "icon": "ctry.png"
+}
